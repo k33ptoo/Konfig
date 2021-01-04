@@ -12,7 +12,7 @@ Simply add the dependency to your pom file
 </dependency>
 ```
 
-To save the settings use the code below inf your frame or class constructor.
+To save the settings use the code below in your frame or class constructor.
 ```
 com.k33ptoo.Konfig.saveKonfigurations(/*your frames or components*/);
 ```
