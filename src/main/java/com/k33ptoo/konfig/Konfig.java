@@ -53,10 +53,8 @@ public class Konfig {
                             frameKonfig.setSize(f.getSize());
                             frameKonfig.setLocation(f.getLocation());
                             frameKonfig.setTitle(f.getTitle());
-                            System.err.println("Is not clear - " + f.getClass().getName());
-                        }
-                        System.err.println("clear");
-                    }
+                           }
+                     }
 
                     @Override
                     public void windowOpened(WindowEvent e) {
