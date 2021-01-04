@@ -20,9 +20,9 @@ Settings will be saved on window close and restored when the window is opened.
 
 The following will be saved:
 
-**1. Size**
-**2. Location**
-**3. Title**
+* **Size**
+* **Location**
+* **Title**
 
 To clear configurations, call
 
