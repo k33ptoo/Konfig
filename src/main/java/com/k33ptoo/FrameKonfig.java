@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.k33ptoo.konfig;
+package com.k33ptoo;
 
-import com.k33ptoo.konfig.KonfigPref;
+import com.k33ptoo.KonfigPref;
 import java.awt.Dimension;
 import java.awt.Frame;
 import java.awt.Point;
