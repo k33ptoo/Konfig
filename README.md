@@ -1,5 +1,5 @@
 # Konfig
-A Java Library from saving Frame Location, Size and Title.
+A Java Library for saving Frame Location, Size and Title.
 ## How to use
 Simply add the dependency to your pom file
 
