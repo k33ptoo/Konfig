@@ -6,15 +6,10 @@
 package com.k33ptoo;
 
 import java.awt.Component;
-import java.awt.Dimension;
 import java.awt.Frame;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.util.ArrayList;
-import java.util.List;
-import javafx.scene.control.TableCell;
 import javax.swing.JFrame;
-import javax.swing.JTable;
 
 /**
  *

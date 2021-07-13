@@ -5,7 +5,6 @@
  */
 package com.k33ptoo;
 
-import com.k33ptoo.KonfigPref;
 import java.awt.Dimension;
 import java.awt.Frame;
 import java.awt.Point;
